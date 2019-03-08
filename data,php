@@ -1,0 +1,18 @@
+<html>
+<body>
+<a href="states.php"><u>States</u> </a>
+|
+<a href="rescounty.php"><u>Results by County</u> </a>
+|
+<a href="resstate.php"><u>Results by State</u> </a>
+|
+<a href="statevisual.php"><u>Results by State Visual</u> </a>
+|
+<a href="mapvisual.php"><u>Results by Map</u> </a>
+|
+<a href="admincounty.php"><u>Admin by County</u> </a>
+<hr>
+<br>
+</body> 
+</html>
+
